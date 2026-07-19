@@ -16,5 +16,5 @@ Computer Science student at the University of Michigan working on multimodal mac
 
 Multimodal learning · Computer vision · ML evaluation · ML systems
 
-[Website](weihaojin-jacky.github.io) · [LinkedIn](https://www.linkedin.com/in/weihao-jin/)
+[Website](https://weihaojin-jacky.github.io) · [LinkedIn](https://www.linkedin.com/in/weihao-jin/)
 
