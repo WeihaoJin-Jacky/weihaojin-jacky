@@ -1,16 +1,20 @@
-## Hi there 👋
+# Weihao Jin
 
-<!--
-**WeihaoJin-Jacky/weihaojin-jacky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student at the University of Michigan working on multimodal machine learning, visual privacy, and ML systems.
 
-Here are some ideas to get you started:
+* Researching explainable analysis and protection of compositional visual privacy risks in the Ambient Intelligence Lab, advised by Sun Ke
+* Building quantitative research and experimentation infrastructure at Square Kettle
+* Previously worked on medical imaging, knowledge distillation, and computer vision systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Selected Work
+
+* **VeilLens** — Explainable and granular analysis and protection against visual privacy risks beyond visible appearance. First author; under review.
+* **Visual Cue Evaluation Pipeline** — Evaluation pipeline for measuring how individual visual cues affect multimodal geolocation.
+* **Medical Imaging Research** — Machine-learning pipelines for pathology images and molecular-pattern prediction.
+
+## Interests
+
+Multimodal learning · Computer vision · ML evaluation · ML systems
+
+[Website](weihaojin-jacky.github.io) · [LinkedIn](https://www.linkedin.com/in/weihao-jin/)
+
