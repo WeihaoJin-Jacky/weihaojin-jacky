@@ -1,20 +1,19 @@
-# Weihao Jin
+# Hi, I'm Weihao Jin
 
-Computer Science student at the University of Michigan working on multimodal machine learning, visual privacy, and ML systems.
+I am a Computer Science student at the [University of Michigan, Ann Arbor](https://www.engin.umich.edu/) working across machine learning research and engineering.
 
-* Researching explainable analysis and protection of compositional visual privacy risks in the Ambient Intelligence Lab, advised by Sun Ke
-* Building quantitative research and experimentation infrastructure at Square Kettle
-* Previously worked on medical imaging, knowledge distillation, and computer vision systems
+I am currently a member of the [Ambient Intelligence Lab](https://ambient-intelligence-lab-umich-eecs.github.io/ami_lab_website/), where I am advised by [Professor Sun Ke](https://samsonsjarkal.github.io/KeSun/) and lead the development of [VeilLens](https://github.com/Ambient-Intelligence-Lab-UMich-EECS/GeoPrivacy), a multimodal system for analyzing and reducing visual privacy risks.
 
-## Selected Work
+I also work as a Research Engineer at [Square Kettle LLC](https://www.squarekettle.com/), building market-structure algorithms, backtesting infrastructure, and AI-assisted experimentation workflows.
 
-* **VeilLens** — Explainable and granular analysis and protection against visual privacy risks beyond visible appearance. First author; under review.
-* **Visual Cue Evaluation Pipeline** — Evaluation pipeline for measuring how individual visual cues affect multimodal geolocation.
-* **Medical Imaging Research** — Machine-learning pipelines for pathology images and molecular-pattern prediction.
+Previously, I developed deep-learning methods and synthetic-data pipelines for ground-penetrating radar reconstruction at the [Research Institute of Tsinghua, Pearl River Delta](http://www.tsinghua-gd.org/).
 
-## Interests
+## Research Interests
 
-Multimodal learning · Computer vision · ML evaluation · ML systems
+- ML systems
+- Reliable evaluation
+- Computer vision
+- Applied machine learning
+- Research infrastructure
 
-[Website](https://weihaojin-jacky.github.io) · [LinkedIn](https://www.linkedin.com/in/weihao-jin/)
-
+I am currently preparing for research-oriented graduate study and seeking opportunities in applied ML research and ML infrastructure.
